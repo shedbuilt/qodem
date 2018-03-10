@@ -1,0 +1,8 @@
+# Shedmake Package Gitignore
+
+# Ignored Cache Folders
+/source
+/binary
+
+# Ignored Install Logs
+/install
